@@ -1,0 +1,12 @@
+Requirements: 
+    Must be responsive
+    Minimal Design
+    Better user interface and interactions
+
+Plan:
+    Make a launcher for android which is undeniably the best in the market, 
+    Making money is not the priority here
+
+Design:
+    Nothing on lock screen, just a wallpaper shuffle from dailystock or unsplash
+    
